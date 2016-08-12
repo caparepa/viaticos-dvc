@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('admin.layouts.main')
 @section('css')
   <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.0/css/bootstrap-datepicker.css" rel="stylesheet">
 @endsection
